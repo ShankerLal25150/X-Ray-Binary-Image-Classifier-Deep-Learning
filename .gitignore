@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+env/
+
+# Datasets
+xrays/
+*.zip
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Model Weights (Too large for GitHub)
+*.h5
+*.keras
